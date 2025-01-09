@@ -1,6 +1,5 @@
 package com.creatio.crm.language.basics;
 
-import java.sql.Time;
 
 public class Assignments1_DataTypes {
 
